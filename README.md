@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ola meu nome e Marcos e esse e meu github](https://github-readme-stats.vercel.app/api?username=marcos-robot-81&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-robot-81&show_icons=true&theme=chartreuse-dark&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=marcos-robot-81&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only" alt="Ola meu nome e Marcos e esse e meu github" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-robot-81&show_icons=true&theme=chartreuse-dark&layout=compact#gh-dark-mode-only" alt="Top Langs" /></a>
