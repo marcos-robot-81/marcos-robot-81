@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Ola meu nome e Marcos e esse e meu github](https://github-readme-stats.vercel.app/api?username=marcos-robot-81&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-robot-81&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-robot-81&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
