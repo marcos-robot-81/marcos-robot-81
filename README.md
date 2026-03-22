@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div >
   <h2>Olá, meu nome é Marcos!</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=marcos-robot-81&amp;show_icons=true&amp;theme=chartreuse-dark#gh-dark-mode-only" alt="Ola meu nome e Marcos e esse e meu github" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-robot-81&amp;show_icons=true&amp;theme=chartreuse-dark&amp;layout=compact#gh-dark-mode-only" alt="Top Langs"/></a>
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-robot-81&amp;show_icons=true&amp;theme=chartreuse-dark&amp;layout=compact#gh-dark-mode-only" alt="Top Langs"/></a>
 </div>
