@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ola meu nome e Marcos e esse e meu github](https://github-readme-stats.vercel.app/api?username=marcos-robot-81&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Ola meu nome e Marcos e esse e meu github](https://github-readme-stats.vercel.app/api?username=marcos-robot-81&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
