@@ -1,60 +1,92 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**marcos-robot-81/marcos-robot-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>👋 Olá! Eu sou o Marcos Henrique</h1>
+  <h3>🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) | 💻 Desenvolvedor Full Stack</h3>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FFF00&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Java+%7C+Spring+Boot+%7C+Angular;Apaixonado+por+Tecnologia+e+C%C3%B3digo+Limpo" alt="Typing SVG" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <a href="mailto:marcoshenrigue81@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/marcos-robot-81">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-<div >
-  <h2>Olá, meu nome é Marcos!</h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height="180" src="https://github-readme-stats.vercel.app/api?username=marcos-robot-81&amp;show_icons=true&amp;theme=chartreuse-dark#gh-dark-mode-only" alt="Ola meu nome e Marcos e esse e meu github" /></a> 
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-robot-81&amp;show_icons=true&amp;theme=chartreuse-dark&amp;layout=compact#gh-dark-mode-only" alt="Top Langs"/></a>
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+---
+
+### 👨‍💻 Sobre Mim
+
+- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**
+- 🔭 Desenvolvendo projetos com **Java, Spring Boot, Angular, TypeScript e JavaScript**
+- 🌱 Aprimorando conhecimentos em **arquitetura de APIs, bancos de dados (MySQL / MongoDB) e Linux**
+- 💬 Pergunte-me sobre **Java, Spring, Desenvolvimento Web e Linux**
+- 📫 Como entrar em contato: **[marcoshenrigue81@gmail.com](mailto:marcoshenrigue81@gmail.com)**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="Angular" title="Angular" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="GIMP" title="GIMP" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="Inkscape" title="Inkscape" />
 </div>
 
-<img src="./github-contribution-grid-snake.svg" alt="Snake animation">
+---
 
-###
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/marcos-robot-81">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=marcos-robot-81&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats de Marcos" />
+  </a>
+  <a href="https://github.com/marcos-robot-81">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcos-robot-81&theme=chartreuse-dark&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/marcos-robot-81">
+    <img height="165em" src="https://streak-stats.demolab.com?user=marcos-robot-81&theme=chartreuse-dark&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+### 📌 Projeto em Destaque
+
+<div align="center">
+  <a href="https://github.com/marcos-robot-81/spring-boot-android-performance-analysis">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=marcos-robot-81&repo=spring-boot-android-performance-analysis&theme=chartreuse-dark&locale=pt-br" alt="spring-boot-android-performance-analysis" />
+  </a>
+</div>
+
+---
+
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <img src="./github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
