@@ -1,11 +1,11 @@
 <div align="center">
 
   <h1>👋 Olá! Eu sou o Marcos Henrique</h1>
-  <h3>🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) | 💻 Desenvolvedor Full Stack</h3>
+  <h3>🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS) | 💻 Desenvolvedor Full Stack</h3>
 
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FFF00&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Java+%7C+Spring+Boot+%7C+Angular;Apaixonado+por+Tecnologia+e+C%C3%B3digo+Limpo" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7FFF00&center=true&vCenter=true&width=650&lines=Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Java+%7C+Spring+Boot+%7C+Angular;Apaixonado+por+Tecnologia+e+C%C3%B3digo+Limpo" alt="Typing SVG" />
     </a>
   </p>
 
@@ -27,7 +27,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**
+- 🎓 Recém-formado em **Análise e Desenvolvimento de Sistemas (ADS)**
 - 🔭 Desenvolvendo projetos com **Java, Spring Boot, Angular, TypeScript e JavaScript**
 - 🌱 Aprimorando conhecimentos em **arquitetura de APIs, bancos de dados (MySQL / MongoDB) e Linux**
 - 💬 Pergunte-me sobre **Java, Spring, Desenvolvimento Web e Linux**
@@ -75,9 +75,12 @@
 
 ---
 
-### 📌 Projeto em Destaque
+### 📌 Projetos em Destaque
 
 <div align="center">
+  <a href="https://github.com/marcos-robot-81/hackathon-nasa-2026">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=marcos-robot-81&repo=hackathon-nasa-2026&theme=chartreuse-dark&locale=pt-br" alt="hackathon-nasa-2026" />
+  </a>
   <a href="https://github.com/marcos-robot-81/spring-boot-android-performance-analysis">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=marcos-robot-81&repo=spring-boot-android-performance-analysis&theme=chartreuse-dark&locale=pt-br" alt="spring-boot-android-performance-analysis" />
   </a>
